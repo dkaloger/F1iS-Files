@@ -1,0 +1,43 @@
+#
+# Bunkspeed OBJ Material File
+# http://www.bunkspeed.com
+#
+
+newmtl color
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-4
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl Orange_Metallic_Paint
+Kd 0.8980392 0.5764706 0.1882353
+Ks 0.5 0.5 0.5
+illum 2
+
+newmtl chromium_plate
+Kd 0.6392157 0.6666667 0.6784314
+Ks 0.6392157 0.6666667 0.6784314
+illum 2
+Ns 99.90109
+
+newmtl Light_Grey_Metallic_Paint
+Kd 0.7176471 0.7176471 0.7176471
+Ks 0.5 0.5 0.5
+illum 2
+
+newmtl Candy_Red_Metallic_Paint
+Kd 1 0 0
+Ks 0.5 0.5 0.5
+illum 2
